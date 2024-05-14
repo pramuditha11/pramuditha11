@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Undergraduate**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pramuditha11?tab=repositories](https://github.com/pramuditha11?tab=repositories)
+
 
 - 💬 Ask me about **Ask me about**
 
-- 📫 How to reach me **www.pramudithamadushan11@gmail.com**
+
 
 - ⚡ Fun fact **I am Funny**
 

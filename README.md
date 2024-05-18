@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pramutiha Madushan</h1>
 <h3 align="center">Developer</h3>
-
-<table>
-<th>
-<td>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pramuditha11&label=Profile%20views&color=0e75b6&style=flat" alt="pramuditha11" /> </p>
 - 🔭 I’m currently working on **GreenHouse Automate**
 
 - 🌱 I’m currently learning **Undergraduate**
@@ -16,7 +13,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
->
+
 <h3 align="cent">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/pramuditha-madushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramuditha-madushan" height="30" width="40" /></a>
@@ -59,9 +56,7 @@
   <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
 </p>
 <br>
-</td>
-</th>
-</table>
+
 
 
 

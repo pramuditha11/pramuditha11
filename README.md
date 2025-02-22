@@ -14,7 +14,7 @@
 
 ### 🔥 **Current Focus**
 - **Project:** Building an AI-powered 🚦 Traffic Monitoring System
-- **Learning:** Mastering Full-Stack Development while pursuing my BSc
+- **Learning:** Electronics | firmware | Software
 - **Goal:** Creating solutions that merge innovation with real-world impact
 
 ---

@@ -50,10 +50,10 @@
   <a href="https://linkedin.com/in/pramuditha-madushan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/pramuditha madushan">
+  <a href="https://www.facebook.com/pramuditha.madushan.92">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/kit_z6">
+  <a href="https://www.instagram.com/pramuditha_madushan88/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>

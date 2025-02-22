@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pramutiha Madushan</h1>
 <h3 align="center">Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pramuditha11&label=Profile%20views&color=0e75b6&style=flat" alt="pramuditha11" /> </p>
-- 🔭 I’m currently working on **GreenHouse Automate**
+- 🔭 I’m currently working on **Traffic Monitoring System**
 
 - 🌱 I’m currently learning **Undergraduate**
 
-
-
 - 💬 Ask me about **Ask me about**
-
-
 
 - ⚡ Fun fact **I am Funny**
 
@@ -47,7 +43,7 @@
 <h1 align="center"> Environments I work with: </h1>
 <p align="center">
 
-  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
+  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="32"></a></code>
 </p>
 <br>
 

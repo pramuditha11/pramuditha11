@@ -1,69 +1,70 @@
-<h1 align="center">Hi 👋, I'm Pramutiha Madushan</h1>
-<h3 align="center">Passionate Developer | Problem Solver | Tech Enthusiast</h3>
+<h1 align="center">🚀 Welcome to My Coding Universe! 🚀</h1>
+<h3 align="center">👨💻 Full-Stack Developer | Undergraduate Scholar 👨🎓</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pramuditha11&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Turning+Coffee+Into+Code;Full-Stack+Enthusiast;Always+Learning+New+Tricks" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pramuditha11&label=Profile+Views&color=blue&style=flat" alt="Profile Views" /> 
+  <a href="https://github.com/pramuditha11?tab=followers"><img src="https://img.shields.io/github/followers/pramuditha11?label=Followers&style=social" alt="GitHub Followers"/></a>
 </p>
 
 ---
 
-### 🚀 Current Projects:
-- 🔭 I’m currently working on a **Traffic Monitoring System** to improve road safety and efficiency using real-time data.
-- 🌱 I'm an **Undergraduate Developer** constantly honing my skills through practical projects and research.
-
-### 💬 Ask me about:
-- **Traffic Systems**
-- **Web Development**
-- **Python & FastAPI**  
-Feel free to reach out—I love discussing new ideas and collaborating!
-
-### ⚡ Fun Fact:
-- I might be a developer, but I’m also known for keeping things **funny**! 😄
+### 🔥 **Current Focus**
+- **Project:** Building an AI-powered 🚦 Traffic Monitoring System
+- **Learning:** Mastering Full-Stack Development while pursuing my BSc
+- **Goal:** Creating solutions that merge innovation with real-world impact
 
 ---
 
-### 🌐 Connect with Me:
+### 🛠️ **Tech Stack Arsenal**
+
+#### **Core Competencies**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+#### **Expanding Horizons**
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+
+---
+
+### 📈 **GitHub Analytics**
+
 <p align="center">
-  <a href="https://linkedin.com/in/pramuditha-madushan" target="blank">LinkedIn</a> | 
-  <a href="https://fb.com/pramuditha.madushan" target="blank">Facebook</a> | 
-  <a href="https://instagram.com/kit_z6" target="blank">Instagram</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pramuditha11&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramuditha11&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-### 🛠️ Technologies I’m Skilled In:
+### 🌐 **Let's Connect**
 <p align="center">
-  Python | FastAPI | Bootstrap | CSS3 | GitHub Actions | HTML5 | Vue.js | JavaScript
+  <a href="https://linkedin.com/in/pramuditha-madushan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/pramuditha madushan">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/kit_z6">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 📚 Currently Learning:
+### 🎯 **Quick Facts**
+- 💡 Problem solver with a passion for efficient solutions
+- 🎓 Balancing code with university studies
+- 😄 **Fun Fact:** I can debug code... but I still can't debug my sleep schedule! 😴
+
 <p align="center">
-  NestJS | ReactJS | Java
+  <img src="https://github-profile-trophy.vercel.app/?username=pramuditha11&theme=onedark&row=1&margin-w=15" alt="GitHub Trophies" />
 </p>
-
----
-
-### 💻 Development Environment:
-<p align="center">
-  Visual Studio Code
-</p>
-
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pramuditha11&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
-</p>
-
----
-
-### 📝 My Latest Blog Posts:
-- [**How I Built a Real-Time Traffic Monitoring System**](#)
-- [**10 Useful Python Tips & Tricks for Developers**](#)
-- [**Why FastAPI is My Go-To Framework for Web Development**](#)
-
----
-
-Feel free to explore my repositories, and let’s build something amazing together! 🚀
